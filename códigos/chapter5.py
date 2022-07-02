@@ -73,7 +73,10 @@ def displayInventory(d):
 def addToInventory(inv, add):
   for a in add:
     qnt = add.count(a)
-    inv.setdefault(a, qnt)
+    if inv.get(a,'teste') == 'teste': 
+        inv.setdefault(a, qnt)
+    else:
+        inv[a] = inv[a] + 1
   return inv
   
 inv = {'gold coin': 42, 'rope': 1}

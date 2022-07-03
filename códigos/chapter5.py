@@ -72,15 +72,15 @@ def displayInventory(d):
 # Adiciona uma lista de itens ao inventário
 def addToInventory(inv, add):
   for a in add:
-    qnt = add.count(a)
     if inv.get(a,'teste') == 'teste': 
-        inv.setdefault(a, qnt)
-    else:
-        inv[a] = inv[a] + 1
+        inv.setdefault(a, 0)
+    inv[a] = inv[a] + 1
   return inv
   
 inv = {'gold coin': 42, 'rope': 1}
 dragonLoot = ['gold coin', 'dagger', 'gold coin', 'gold coin', 'ruby']
 
+displayInventory(inv)
+print()
 inv = addToInventory(inv,dragonLoot)
 displayInventory(inv)

@@ -73,7 +73,7 @@ def displayInventory(d):
 def addToInventory(inv, add):
   for a in add:
     if inv.get(a,'teste') == 'teste': 
-        inv.setdefault(a, 0)
+        inv[a] = 0
     inv[a] = inv[a] + 1
   return inv
   

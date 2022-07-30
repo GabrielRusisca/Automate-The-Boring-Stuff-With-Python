@@ -4,5 +4,5 @@
 
 Lista de Códigos (feitos após a introdução aos fundamentos):
 
-- 
+- mclip.py - Primeiro script da vida, hehe, finalmente descobri como rodar o script por meio do win+r por meio de um arquivo bat
 

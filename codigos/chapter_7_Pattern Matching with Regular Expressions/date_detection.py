@@ -2,7 +2,6 @@ import pyperclip
 import re
 
 datas = re.compile(r'((0[1-9]|1[0-9]|2[0-9]|3[01])/(0[1-9]|1[0-2])/(1\d\d\d|2\d\d\d))')
-
 texto = """
         01/5/2510
         01/05/999

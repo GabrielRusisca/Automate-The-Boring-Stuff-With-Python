@@ -28,12 +28,12 @@ response = pyin.inputInt('Enter a number: ', allowRegexes=['caterpillar', 'categ
 
 response = pyin.inputCustom(addsUpToTen, prompt='Número em que a soma dos dígitos dê 10: ')"""
 
-"""# How to keep an idiot busy for hours
+# How to keep an idiot busy for hours
 while True:
     response = pyin.inputYesNo(prompt='Want to know how to keep and idiot busy for hours?\n')
     if response == 'no':
         print('Thank you. Have a nice day.')
-        break"""
+        break
 
 print('More in: https://pyinputplus.readthedocs.io/en/latest/')
 

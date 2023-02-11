@@ -18,7 +18,7 @@ response = pyin.inputFloat('Enter float: ', timeout=5, default='N/A')"""
 """response = pyin.inputInt('Enter a number: ', allowRegexes=[r'(I|V|X|L|C|D|M)+',r'zero'])
 response = pyin.inputInt('Enter a number: ', allowRegexes=['caterpillar', 'category'], blockRegexes=['cat']) # allow has higher priority than block"""
 
-"""def addsUpToTen(numbers):
+def addsUpToTen(numbers):
     numberlist = list(numbers) 
     for i,digit in enumerate(numberlist):
         numberlist[i] = int(digit)
@@ -26,7 +26,7 @@ response = pyin.inputInt('Enter a number: ', allowRegexes=['caterpillar', 'categ
         raise Exception(f'The digits must add up to 10, not {sum(numberlist)}')
     return int(numbers)    
 
-response = pyin.inputCustom(addsUpToTen, prompt='Número em que a soma dos dígitos dê 10: ')"""
+response = pyin.inputCustom(addsUpToTen, prompt='Número em que a soma dos dígitos dê 10: ')
 
 # How to keep an idiot busy for hours
 while True:

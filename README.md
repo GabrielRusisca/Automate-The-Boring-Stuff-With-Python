@@ -4,6 +4,8 @@
 
 ### Endereco do livro: https://automatetheboringstuff.com/#toc
 Lista de Códigos (feitos após a introdução aos fundamentos):
+### Códigos dentro das pastas **Practice Programs** são exercícios criados apenas por mim.
+### Códigos apenas nas pastas dos capítulos são as explicações ou exercícios guiados pelo autor dentro do capítulo.
 
-- mclip.py - Primeiro script da vida, hehe, finalmente descobri como rodar o script com win+r por meio de um arquivo bat
+
 

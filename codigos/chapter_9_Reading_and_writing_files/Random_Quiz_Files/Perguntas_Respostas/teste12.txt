@@ -1,0 +1,301 @@
+1. Capital de Vatican City (Holy See):
+            1. Yerevan
+            2. Vatican City
+            3. Mbabane
+            4. Nur Sultan
+            
+            2. Capital de Kosovo:
+            1. Santiago
+            2. Sao Tome
+            3. Pristina
+            4. Gaborone
+            
+            3. Capital de Serbia:
+            1. Caracas
+            2. Rome
+            3. Belgrade
+            4. Male
+            
+            4. Capital de Poland:
+            1. Warsaw
+            2. Harare
+            3. Antananarivo
+            4. Buenos Aires
+            
+            5. Capital de San Marino:
+            1. Algiers
+            2. Lusaka
+            3. San Marino
+            4. Wellington
+            
+            6. Capital de Nigeria:
+            1. Abuja
+            2. Castries
+            3. Luxembourg
+            4. Accra
+            
+            7. Capital de Andorra:
+            1. Addis Ababa
+            2. Andorra la Vella
+            3. N’Djamena
+            4. Mbabane
+            
+            8. Capital de France:
+            1. Sanaa
+            2. Paris
+            3. Palikir
+            4. Helsinki
+            
+            9. Capital de Kazakhstan:
+            1. Riga
+            2. San Salvador
+            3. Nur Sultan
+            4. Mogadishu
+            
+            10. Capital de Jamaica:
+            1. Bangkok
+            2. Kingston
+            3. Riyadh
+            4. Ouagadougou
+            
+            11. Capital de Switzerland:
+            1. Valletta
+            2. Berne
+            3. Berlin
+            4. Pyongyang
+            
+            12. Capital de Canada:
+            1. Kiev
+            2. Ottawa
+            3. Madrid
+            4. Ouagadougou
+            
+            13. Capital de Qatar:
+            1. Doha
+            2. Djibouti
+            3. Mexico City
+            4. Berlin
+            
+            14. Capital de Austria:
+            1. Nuku’alofa
+            2. Vienna
+            3. Berlin
+            4. Port Louis
+            
+            15. Capital de Benin:
+            1. Porto-Novo
+            2. Antananarivo
+            3. Bangui
+            4. Melekeok
+            
+            16. Capital de Cyprus:
+            1. Nicosia
+            2. Sanaa
+            3. San Salvador
+            4. Paramaribo
+            
+            17. Capital de Niger:
+            1. Niamey
+            2. Prague
+            3. Sofia
+            4. Seoul
+            
+            18. Capital de Vietnam:
+            1. Nay Pyi Taw
+            2. Amman
+            3. Hanoi
+            4. Kabul
+            
+            19. Capital de United Arab Emirates:
+            1. Abu Dhabi
+            2. Belmopan
+            3. Pyongyang
+            4. Lima
+            
+            20. Capital de Singapore:
+            1. Chisinau
+            2. Singapore
+            3. Sofia
+            4. Bangkok
+            
+            21. Capital de Ghana:
+            1. Malabo
+            2. Accra
+            3. Port Louis
+            4. San Jose
+            
+            22. Capital de Panama:
+            1. Dili
+            2. La Paz (administrative); Sucre (judicial)
+            3. Pyongyang
+            4. Panama City
+            
+            23. Capital de Mongolia:
+            1. Buenos Aires
+            2. Honiara
+            3. Kuwait City
+            4. Ulaanbaatar
+            
+            24. Capital de Palau:
+            1. Antananarivo
+            2. Nairobi
+            3. Melekeok
+            4. Santiago
+            
+            25. Capital de Tunisia:
+            1. Tunis
+            2. Luanda
+            3. Santiago
+            4. Canberra
+            
+            26. Capital de Israel:
+            1. Jerusalem*
+            2. Roseau
+            3. Montevideo
+            4. Sarajevo
+            
+            27. Capital de Croatia:
+            1. London
+            2. Zagreb
+            3. Sao Tome
+            4. Pretoria (administrative); Cape Town (legislative); Bloemfontein (judiciary)
+            
+            28. Capital de El Salvador:
+            1. Beirut
+            2. New Delhi
+            3. San Salvador
+            4. Saint John’s
+            
+            29. Capital de India:
+            1. Tirane
+            2. Bangui
+            3. Wellington
+            4. New Delhi
+            
+            30. Capital de Sudan:
+            1. Helsinki
+            2. Havana
+            3. Oslo
+            4. Khartoum
+            
+            31. Capital de Angola:
+            1. Thimphu
+            2. Luanda
+            3. Phnom Penh
+            4. Kuwait City
+            
+            32. Capital de Grenada:
+            1. Antananarivo
+            2. Saint George’s
+            3. Kigali
+            4. Buenos Aires
+            
+            33. Capital de Thailand:
+            1. Conakry
+            2. Bangkok
+            3. Islamabad
+            4. Juba
+            
+            34. Capital de Turkey:
+            1. Ankara
+            2. Lima
+            3. Ashgabat
+            4. Monte Carlo
+            
+            35. Capital de United States of America:
+            1. Washington D.C.
+            2. Suva
+            3. Port-au-Prince
+            4. Sao Tome
+            
+            36. Capital de Sweden:
+            1. Stockholm
+            2. Kingstown
+            3. Beijing
+            4. La Paz (administrative); Sucre (judicial)
+            
+            37. Capital de Swaziland:
+            1. Canberra
+            2. Brasilia
+            3. Rome
+            4. Mbabane
+            
+            38. Capital de Ireland:
+            1. no official capital; government offices in Yaren District
+            2. Dublin
+            3. Manila
+            4. Palikir
+            
+            39. Capital de Maldives:
+            1. Male
+            2. Guatemala City
+            3. Moscow
+            4. Riga
+            
+            40. Capital de Burundi:
+            1. Gitega
+            2. Baghdad
+            3. San Jose
+            4. Sofia
+            
+            41. Capital de Tuvalu:
+            1. Taipei
+            2. Bamako
+            3. Vaiaku village, Funafuti province
+            4. Nairobi
+            
+            42. Capital de Seychelles:
+            1. Vaduz
+            2. Victoria
+            3. Bucharest
+            4. Nuku’alofa
+            
+            43. Capital de Guyana:
+            1. Rabat
+            2. Georgetown
+            3. Tripoli
+            4. Bamako
+            
+            44. Capital de Cambodia:
+            1. Bucharest
+            2. Port Moresby
+            3. Manila
+            4. Phnom Penh
+            
+            45. Capital de Solomon Islands:
+            1. Mogadishu
+            2. Beijing
+            3. Honiara
+            4. San Jose
+            
+            46. Capital de Uganda:
+            1. Lisbon
+            2. Suva
+            3. Athens
+            4. Kampala
+            
+            47. Capital de Marshall Islands:
+            1. Kingstown
+            2. Majuro
+            3. Kigali
+            4. Djibouti
+            
+            48. Capital de Ecuador:
+            1. Bandar Seri Begawan
+            2. Jakarta
+            3. Quito
+            4. Yerevan
+            
+            49. Capital de Nicaragua:
+            1. Islamabad
+            2. Managua
+            3. Santiago
+            4. Saint John’s
+            
+            50. Capital de Togo:
+            1. Kigali
+            2. Maseru
+            3. Tallinn
+            4. Lome
+            
+            

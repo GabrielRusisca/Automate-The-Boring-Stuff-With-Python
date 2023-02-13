@@ -17,13 +17,17 @@ print(path_name)
 path_name = Path('spam') / Path('bacon','eggs')
 print(path_name)'''
 
-'''from pathlib import Path
+"""from pathlib import Path
 #wrong_path_name = 'spam' / 'bacon' / 'eggs'
 #print(wrong_path_name)
 path_name = 'spam' / Path('bacon') / 'eggs'
 print(path_name)
-path_name = Path('spam') / Path('bacon') / 'eggs'
-print(path_name)'''
+path_name = Path('spam') / 'bacon' / 'eggs'
+print(path_name)
+path_name = Path.cwd() / 'bacon/eggs'
+print(path_name)
+print(type(path_name))"""
+
 
 from pathlib import Path
 import os

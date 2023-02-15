@@ -57,7 +57,7 @@ print(mo1.group(1))
 mo2 = phoneRegex.search('My number is 555-4242')
 print(mo2.group())
 
-print()
+print('-------------------------------------------------')
 
 batRegex = re.compile(r'Bat(wo)*man')
 mo1 = batRegex.search('The Adventures of Batman')
@@ -191,10 +191,10 @@ print(robocop.search('Al, why does your programming book talk about robocop so m
 
 print()
 
-namesRegex = re.compile(r'Agent \w+')
+namesRegex = re.compile('Agent \w+')
 print(namesRegex.sub('CENSORED', 'Agent Alice gave the secret documents to Agent Bob.'))
 
-agentNamesRegex = re.compile(r'Agent (\w)\w*')
+agentNamesRegex = re.compile('Agent (\w)\w*')
 print(agentNamesRegex.sub(r'\1**', 'Agent Alice told Agent Carol that Agent Eve knew Agent Bob was a double agent.'))
 
 print()
@@ -202,15 +202,18 @@ print()
 someRegexValue = re.compile('foo', re.IGNORECASE | re.DOTALL | re.VERBOSE) # utilize o | para adicionar mais de um argumento no re.compile, o re.verbose permite que use ''' ao invés de ' para selecionar o texto, sendo que o enter é ignorado, então fica mais fácil de organizar tudo, pois pode usar # tbm'
 print('\n'*5)
 
-phoneNumRegex = re.compile(r'\d\d\d-\d\d\d-\d\d\d\d') # has no groups
+phoneNumRegex = re.compile('\d\d\d-\d\d\d-\d\d\d\d') # has no groups
 fa = phoneNumRegex.findall('Cell: 415-555-9999 Work: 212-555-0000')
 print(fa)
 
-phoneNumRegex = re.compile(r'(\d\d\d)-(\d\d\d)-(\d\d\d\d)') # has groups
+phoneNumRegex = re.compile('(\d\d\d)-(\d\d\d)-(\d\d\d\d)') # has groups
 fa = phoneNumRegex.findall('Cell: 415-555-9999 Work: 212-555-0000')
 print(fa)
 
-phoneNumRegex = re.compile(r'(\d\d\d)-\d\d\d-\d\d\d\d', re.VERBOSE) # has no groups
+phoneNumRegex = re.compile('(\\d\\d\\d)-\\d\\d\\d-\\d\\d\\d\\d', re.VERBOSE) # has groups, instead of using an r, i am inserting two backslashes instead  of one
 fa = phoneNumRegex.findall('Cell: 415-555-9999 Work: 212-555-0000')
 print(fa)
 
+phoneNumRegex = re.compile(r'\\') # has groups
+fa = phoneNumRegex.findall('Cell: 415-555-9999 Work: 212-555- \\')
+print(fa)

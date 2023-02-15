@@ -32,8 +32,17 @@ for i in range(len(texto)):
     if texto[i][:pos].lower() in palavras:
         texto[i] = input(f'Enter an {texto[i][:pos].lower()}:\n') + str(character)
 
+for i in range(100):
+    new_file_path = file_path
+    print(i, new_file_path)
+    new_file_path = file_path.parent / (str(file_path.stem) + f'-{i}.txt')
+    print(i,new_file_path)
+    if not new_file_path.exists():
+        break
+    
+    
 texto = ' '.join(texto)
-arq = open(file_path,'a')
-arq.write('\n\n\n\n'+texto)
+arq = open(new_file_path,'w')
+arq.write(texto)
 print(texto)
 arq.close()

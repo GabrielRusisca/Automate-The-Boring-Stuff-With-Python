@@ -6,7 +6,6 @@
 #        py.exe mcb.pyw deleteall - Deletes all keywords from data.
 
 import shelve,pyperclip,sys
-from pathlib import Path
 
 lista = sys.argv.copy()
 

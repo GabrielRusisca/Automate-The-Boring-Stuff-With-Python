@@ -34,9 +34,7 @@ for i in range(len(texto)):
 
 for i in range(100):
     new_file_path = file_path
-    print(i, new_file_path)
     new_file_path = file_path.parent / (str(file_path.stem) + f'-{i}.txt')
-    print(i,new_file_path)
     if not new_file_path.exists():
         break
     

@@ -41,10 +41,9 @@ home = Path.home()
 print(home)"""
 
 
-# IMPORTANT ----- os.makedirs('C:/Users/grusi/oi/ola/bomdia/tchau.txt')
+# IMPORTANT ----- os.makedirs('C:/Users/grusi/oi/ola/bomdia/tchau.txt') # only makes folders not files
 # IMPORTANT ----- Path('C:/Users/grusi/Gabriel/Programacao/ola').mkdir()
-
-
+# only makes folders not paths
 """print(Path.cwd().is_absolute())
 print(Path('spam/bacon/eggs').is_absolute())
 print(Path('my/relative/path'))

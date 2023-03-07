@@ -53,5 +53,16 @@ for folderName, subfolders, filenames in os.walk('codigos\chapter_7_Pattern Matc
 #A list of strings of the folders in the current folder
 #A list of strings of the files in the current folder'''
 
+"""
+import zipfile, os
+from pathlib import Path
+p = Path.home()
+example_zip = zipfile.ZipFile(r"C:\Users\grusi\OneDrive\Área de Trabalho\example.zip")
+print(example_zip.namelist())
+spam_info = example_zip.getinfo('example/zophie.txt')
+print(spam_info.file_size)
+print(spam_info.compress_size)
+example_zip.close()
+"""
 
 
